@@ -2,11 +2,8 @@
 
 This is a HOW TO build and run "The Maxcoin Core Wallet" with VirtualBox
 
-## Table of contents
 
-[[_TOC_]] 
-
-## Requerements
+## Requirements
 
 * [VirtualBox](https://www.virtualbox.org/) 
 * [7Zip](https://www.7-zip.org/) or some other program to un7zip
@@ -38,7 +35,7 @@ To setup a shared folder betwwn guest and host use [*this guide*](https://helpde
 ***
 ## License
 
-[**UNLICENSE**](./LICENSE). ?
+[**UNLICENSE**](./LICENSE).
 
 ## Contact.
 
