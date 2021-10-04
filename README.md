@@ -15,8 +15,8 @@ This is a HOW TO build and run "The Maxcoin Core Wallet" with VirtualBox
 
 1. Download and install [7Zip](https://www.7-zip.org/) or already have a software that can un7zip 7zip files.
 2. Download [VirtualBox](https://www.virtualbox.org/) from https://www.virtualbox.org/wiki/Downloads and get the one that fits your Operative System.
-3. Download the [Ubuntu 18.04.3 VDI](https://kwww.osboxes.org/ubuntu/) (this is the virtualbox image)
-4. Install virtualbox folloing one of the manuals
+3. Download the [Ubuntu 18.04.3 VDI](https://www.osboxes.org/ubuntu/) (this is the virtualbox image)
+4. Install virtualbox following one of the manuals
    * For windows follow the [Part 1 only](https://www.wikihow.com/Install-VirtualBox)
    * For MacOS follow the [Part 2 only](https://www.wikihow.com/Install-VirtualBox)
    * For Linux follow the [Part 3 only](https://www.wikihow.com/Install-VirtualBox)
